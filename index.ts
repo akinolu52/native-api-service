@@ -1,4 +1,4 @@
-export type Method =
+type Method =
     | 'get' | 'GET'
     | 'delete' | 'DELETE'
     | 'head' | 'HEAD'
@@ -13,7 +13,6 @@ export class ApiService {
     private contentType: string;
 
     constructor(baseURL: string, token?: string, contentType?: string) {
-
         this.baseURL = baseURL;
         this.token = token;
         this.contentType = contentType;

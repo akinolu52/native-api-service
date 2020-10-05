@@ -1,6 +1,6 @@
 {
   "name": "native-api-service",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A service to help you with your API request using client fetch",
   "main": "index.ts",
   "scripts": {

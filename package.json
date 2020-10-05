@@ -1,0 +1,32 @@
+{
+  "name": "native-api-service",
+  "version": "1.0.0",
+  "description": "A service to help you with your API request using client fetch",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinolu52/js-api-service.git"
+  },
+  "keywords": [
+    "Api",
+    "fetch",
+    "request",
+    "api",
+    "service",
+    "api-service",
+    "js-api",
+    "js-api-request",
+    "js-request",
+    "fetch",
+    "axios-fectch"
+  ],
+  "author": "Akinyemi Olumide Emmanuel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/akinolu52/js-api-service/issues"
+  },
+  "homepage": "https://github.com/akinolu52/js-api-service#readme"
+}

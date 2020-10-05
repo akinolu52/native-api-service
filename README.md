@@ -1,13 +1,13 @@
-# js-api-service
+# native-api-service
 
 A simple way to make API request from the client end
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/download/) to install js-api-service.
+Use the package manager [npm](https://nodejs.org/en/download/) to install native-api-service.
 
 ```bash
-npm install js-api-service
+npm install native-api-service
 ```
 
 ## Explanation
@@ -25,7 +25,7 @@ npm install js-api-service
 ## Usage
 
 ```javascript
-import { ApiService } from 'js-api-service';
+import { ApiService } from 'native-api-service';
 
 const userApiService = new ApiService('https://jsonplaceholder.typicode.com');
 // or
